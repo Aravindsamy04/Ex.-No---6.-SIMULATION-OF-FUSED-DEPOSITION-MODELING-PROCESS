@@ -21,7 +21,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
-![Uploading EMPD 6.png…]()
+![EMPD 6](https://github.com/Aravindsamy04/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113497037/c1c486e1-2338-4a10-a09a-877dd76f1432)
 
 ### Name:ARAVIND SAMY .P
 ### Register Number:212222230011
